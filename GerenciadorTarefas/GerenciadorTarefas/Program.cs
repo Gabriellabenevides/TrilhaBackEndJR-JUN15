@@ -1,32 +1,52 @@
 using GerenciadorTarefas.DataBase;
+using GerenciadorTarefas.Domain.Interface.Repository;
+using GerenciadorTarefas.Domain.Interface.Service;
+using GerenciadorTarefas.Domain.Repository;
+using GerenciadorTarefas.Domain.Service;
 using Microsoft.EntityFrameworkCore;
-
+using Microsoft.OpenApi.Models;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// Add services to the container.
+// Configuração do banco de dados
+builder.Services.AddDbContext<Context>(options =>
+    options.UseSqlite(builder.Configuration.GetConnectionString("DefaultConnection")));
 
+// Configuração do Swagger
+builder.Services.AddSwaggerGen(c =>
+{
+    c.SwaggerDoc("v1", new OpenApiInfo { Title = "Gerenciador de Tarefas", Version = "v1" });
+});
+
+// Configuração dos outros serviços
 builder.Services.AddControllers();
-// Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
-builder.Services.AddEndpointsApiExplorer();
-builder.Services.AddSwaggerGen();
+builder.Services.AddHttpContextAccessor();
 
-var connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
+builder.Services.AddScoped<ITarefaService, TarefaService>();
+builder.Services.AddScoped<ITarefaRepository, TarefaRepository>();
 
-builder.Services.AddDbContext<Context>(opts => opts.UseSqlite(connectionString));
+
 var app = builder.Build();
 
-// Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
 {
+    app.UseDeveloperExceptionPage();
     app.UseSwagger();
-    app.UseSwaggerUI();
+    app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "Gerenciador de Tarefas"));
 }
 
 app.UseHttpsRedirection();
-
+app.UseRouting();
+app.UseCors(p => {
+    p.AllowAnyMethod();
+    p.AllowAnyHeader();
+    p.AllowAnyOrigin();
+});
+app.UseAuthentication();
 app.UseAuthorization();
 
-app.MapControllers();
+app.UseEndpoints(endpoints => {
+    endpoints.MapControllers();
+});
 
 app.Run();

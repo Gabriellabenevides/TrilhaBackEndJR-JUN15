@@ -3,36 +3,32 @@
   "WorkspaceRootPath": "C:\\Desenvolvimento\\Nova pasta\\TrilhaBackEndJR-JUN15\\GerenciadorTarefas\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D4D8C396-8C65-459E-8623-DE73F2C6BA55}|GerenciadorTarefas\\GerenciadorTarefas.csproj|c:\\desenvolvimento\\nova pasta\\trilhabackendjr-jun15\\gerenciadortarefas\\gerenciadortarefas\\domain\\repository\\tarefarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D4D8C396-8C65-459E-8623-DE73F2C6BA55}|GerenciadorTarefas\\GerenciadorTarefas.csproj|solutionrelative:gerenciadortarefas\\domain\\repository\\tarefarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D4D8C396-8C65-459E-8623-DE73F2C6BA55}|GerenciadorTarefas\\GerenciadorTarefas.csproj|c:\\desenvolvimento\\nova pasta\\trilhabackendjr-jun15\\gerenciadortarefas\\gerenciadortarefas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4D8C396-8C65-459E-8623-DE73F2C6BA55}|GerenciadorTarefas\\GerenciadorTarefas.csproj|solutionrelative:gerenciadortarefas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D4D8C396-8C65-459E-8623-DE73F2C6BA55}|GerenciadorTarefas\\GerenciadorTarefas.csproj|c:\\desenvolvimento\\nova pasta\\trilhabackendjr-jun15\\gerenciadortarefas\\gerenciadortarefas\\domain\\interface\\repository\\itarefarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D4D8C396-8C65-459E-8623-DE73F2C6BA55}|GerenciadorTarefas\\GerenciadorTarefas.csproj|solutionrelative:gerenciadortarefas\\domain\\interface\\repository\\itarefarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D4D8C396-8C65-459E-8623-DE73F2C6BA55}|GerenciadorTarefas\\GerenciadorTarefas.csproj|c:\\desenvolvimento\\nova pasta\\trilhabackendjr-jun15\\gerenciadortarefas\\gerenciadortarefas\\controllers\\tarefacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4D8C396-8C65-459E-8623-DE73F2C6BA55}|GerenciadorTarefas\\GerenciadorTarefas.csproj|solutionrelative:gerenciadortarefas\\controllers\\tarefacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4D8C396-8C65-459E-8623-DE73F2C6BA55}|GerenciadorTarefas\\GerenciadorTarefas.csproj|c:\\desenvolvimento\\nova pasta\\trilhabackendjr-jun15\\gerenciadortarefas\\gerenciadortarefas\\route\\apiroutes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4D8C396-8C65-459E-8623-DE73F2C6BA55}|GerenciadorTarefas\\GerenciadorTarefas.csproj|solutionrelative:gerenciadortarefas\\route\\apiroutes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4D8C396-8C65-459E-8623-DE73F2C6BA55}|GerenciadorTarefas\\GerenciadorTarefas.csproj|c:\\desenvolvimento\\nova pasta\\trilhabackendjr-jun15\\gerenciadortarefas\\gerenciadortarefas\\domain\\repository\\tarefarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4D8C396-8C65-459E-8623-DE73F2C6BA55}|GerenciadorTarefas\\GerenciadorTarefas.csproj|solutionrelative:gerenciadortarefas\\domain\\repository\\tarefarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D4D8C396-8C65-459E-8623-DE73F2C6BA55}|GerenciadorTarefas\\GerenciadorTarefas.csproj|c:\\desenvolvimento\\nova pasta\\trilhabackendjr-jun15\\gerenciadortarefas\\gerenciadortarefas\\domain\\service\\tarefaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D4D8C396-8C65-459E-8623-DE73F2C6BA55}|GerenciadorTarefas\\GerenciadorTarefas.csproj|solutionrelative:gerenciadortarefas\\domain\\service\\tarefaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D4D8C396-8C65-459E-8623-DE73F2C6BA55}|GerenciadorTarefas\\GerenciadorTarefas.csproj|c:\\desenvolvimento\\nova pasta\\trilhabackendjr-jun15\\gerenciadortarefas\\gerenciadortarefas\\model\\tarefa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D4D8C396-8C65-459E-8623-DE73F2C6BA55}|GerenciadorTarefas\\GerenciadorTarefas.csproj|solutionrelative:gerenciadortarefas\\model\\tarefa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D4D8C396-8C65-459E-8623-DE73F2C6BA55}|GerenciadorTarefas\\GerenciadorTarefas.csproj|c:\\desenvolvimento\\nova pasta\\trilhabackendjr-jun15\\gerenciadortarefas\\gerenciadortarefas\\database\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D4D8C396-8C65-459E-8623-DE73F2C6BA55}|GerenciadorTarefas\\GerenciadorTarefas.csproj|solutionrelative:gerenciadortarefas\\database\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D4D8C396-8C65-459E-8623-DE73F2C6BA55}|GerenciadorTarefas\\GerenciadorTarefas.csproj|c:\\desenvolvimento\\nova pasta\\trilhabackendjr-jun15\\gerenciadortarefas\\gerenciadortarefas\\domain\\interface\\service\\itarefaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D4D8C396-8C65-459E-8623-DE73F2C6BA55}|GerenciadorTarefas\\GerenciadorTarefas.csproj|solutionrelative:gerenciadortarefas\\domain\\interface\\service\\itarefaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D4D8C396-8C65-459E-8623-DE73F2C6BA55}|GerenciadorTarefas\\GerenciadorTarefas.csproj|c:\\desenvolvimento\\nova pasta\\trilhabackendjr-jun15\\gerenciadortarefas\\gerenciadortarefas\\domain\\interface\\service\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D4D8C396-8C65-459E-8623-DE73F2C6BA55}|GerenciadorTarefas\\GerenciadorTarefas.csproj|solutionrelative:gerenciadortarefas\\domain\\interface\\service\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D4D8C396-8C65-459E-8623-DE73F2C6BA55}|GerenciadorTarefas\\GerenciadorTarefas.csproj|c:\\desenvolvimento\\nova pasta\\trilhabackendjr-jun15\\gerenciadortarefas\\gerenciadortarefas\\domain\\interface\\repository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D4D8C396-8C65-459E-8623-DE73F2C6BA55}|GerenciadorTarefas\\GerenciadorTarefas.csproj|solutionrelative:gerenciadortarefas\\domain\\interface\\repository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D4D8C396-8C65-459E-8623-DE73F2C6BA55}|GerenciadorTarefas\\GerenciadorTarefas.csproj|c:\\desenvolvimento\\nova pasta\\trilhabackendjr-jun15\\gerenciadortarefas\\gerenciadortarefas\\database\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4D8C396-8C65-459E-8623-DE73F2C6BA55}|GerenciadorTarefas\\GerenciadorTarefas.csproj|solutionrelative:gerenciadortarefas\\database\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,21 +38,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 7,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Tarefa.cs",
-              "DocumentMoniker": "C:\\Desenvolvimento\\Nova pasta\\TrilhaBackEndJR-JUN15\\GerenciadorTarefas\\GerenciadorTarefas\\Model\\Tarefa.cs",
-              "RelativeDocumentMoniker": "GerenciadorTarefas\\Model\\Tarefa.cs",
-              "ToolTip": "C:\\Desenvolvimento\\Nova pasta\\TrilhaBackEndJR-JUN15\\GerenciadorTarefas\\GerenciadorTarefas\\Model\\Tarefa.cs",
-              "RelativeToolTip": "GerenciadorTarefas\\Model\\Tarefa.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-07T17:26:04.742Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
@@ -67,54 +50,80 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
+              "Title": "ApiRoutes.cs",
+              "DocumentMoniker": "C:\\Desenvolvimento\\Nova pasta\\TrilhaBackEndJR-JUN15\\GerenciadorTarefas\\GerenciadorTarefas\\Route\\ApiRoutes.cs",
+              "RelativeDocumentMoniker": "GerenciadorTarefas\\Route\\ApiRoutes.cs",
+              "ToolTip": "C:\\Desenvolvimento\\Nova pasta\\TrilhaBackEndJR-JUN15\\GerenciadorTarefas\\GerenciadorTarefas\\Route\\ApiRoutes.cs",
+              "RelativeToolTip": "GerenciadorTarefas\\Route\\ApiRoutes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T18:22:10.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Context.cs",
               "DocumentMoniker": "C:\\Desenvolvimento\\Nova pasta\\TrilhaBackEndJR-JUN15\\GerenciadorTarefas\\GerenciadorTarefas\\DataBase\\Context.cs",
               "RelativeDocumentMoniker": "GerenciadorTarefas\\DataBase\\Context.cs",
               "ToolTip": "C:\\Desenvolvimento\\Nova pasta\\TrilhaBackEndJR-JUN15\\GerenciadorTarefas\\GerenciadorTarefas\\DataBase\\Context.cs",
               "RelativeToolTip": "GerenciadorTarefas\\DataBase\\Context.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAgAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-07T17:25:44.086Z",
+              "WhenOpened": "2024-07-07T18:22:02.246Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "TarefaService.cs",
               "DocumentMoniker": "C:\\Desenvolvimento\\Nova pasta\\TrilhaBackEndJR-JUN15\\GerenciadorTarefas\\GerenciadorTarefas\\Domain\\Service\\TarefaService.cs",
               "RelativeDocumentMoniker": "GerenciadorTarefas\\Domain\\Service\\TarefaService.cs",
               "ToolTip": "C:\\Desenvolvimento\\Nova pasta\\TrilhaBackEndJR-JUN15\\GerenciadorTarefas\\GerenciadorTarefas\\Domain\\Service\\TarefaService.cs",
               "RelativeToolTip": "GerenciadorTarefas\\Domain\\Service\\TarefaService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAoAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-07T17:21:47.179Z",
+              "WhenOpened": "2024-07-07T18:21:54.128Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "TarefaRepository.cs",
               "DocumentMoniker": "C:\\Desenvolvimento\\Nova pasta\\TrilhaBackEndJR-JUN15\\GerenciadorTarefas\\GerenciadorTarefas\\Domain\\Repository\\TarefaRepository.cs",
               "RelativeDocumentMoniker": "GerenciadorTarefas\\Domain\\Repository\\TarefaRepository.cs",
               "ToolTip": "C:\\Desenvolvimento\\Nova pasta\\TrilhaBackEndJR-JUN15\\GerenciadorTarefas\\GerenciadorTarefas\\Domain\\Repository\\TarefaRepository.cs",
               "RelativeToolTip": "GerenciadorTarefas\\Domain\\Repository\\TarefaRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAApAAAA",
+              "ViewState": "AQIAABIAAAAAAAAAAAAYwAkAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-07T17:21:34.208Z",
+              "WhenOpened": "2024-07-07T18:21:46.256Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ITarefaRepository.cs",
-              "DocumentMoniker": "C:\\Desenvolvimento\\Nova pasta\\TrilhaBackEndJR-JUN15\\GerenciadorTarefas\\GerenciadorTarefas\\Domain\\Interface\\Repository\\ITarefaRepository.cs",
-              "RelativeDocumentMoniker": "GerenciadorTarefas\\Domain\\Interface\\Repository\\ITarefaRepository.cs",
-              "ToolTip": "C:\\Desenvolvimento\\Nova pasta\\TrilhaBackEndJR-JUN15\\GerenciadorTarefas\\GerenciadorTarefas\\Domain\\Interface\\Repository\\ITarefaRepository.cs",
-              "RelativeToolTip": "GerenciadorTarefas\\Domain\\Interface\\Repository\\ITarefaRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAXAAAA",
+              "Title": "TarefaController.cs",
+              "DocumentMoniker": "C:\\Desenvolvimento\\Nova pasta\\TrilhaBackEndJR-JUN15\\GerenciadorTarefas\\GerenciadorTarefas\\Controllers\\TarefaController.cs",
+              "RelativeDocumentMoniker": "GerenciadorTarefas\\Controllers\\TarefaController.cs",
+              "ToolTip": "C:\\Desenvolvimento\\Nova pasta\\TrilhaBackEndJR-JUN15\\GerenciadorTarefas\\GerenciadorTarefas\\Controllers\\TarefaController.cs",
+              "RelativeToolTip": "GerenciadorTarefas\\Controllers\\TarefaController.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAuwCoAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-07T17:14:03.129Z",
+              "WhenOpened": "2024-07-07T18:16:28.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Desenvolvimento\\Nova pasta\\TrilhaBackEndJR-JUN15\\GerenciadorTarefas\\GerenciadorTarefas\\Program.cs",
+              "RelativeDocumentMoniker": "GerenciadorTarefas\\Program.cs",
+              "ToolTip": "C:\\Desenvolvimento\\Nova pasta\\TrilhaBackEndJR-JUN15\\GerenciadorTarefas\\GerenciadorTarefas\\Program.cs*",
+              "RelativeToolTip": "GerenciadorTarefas\\Program.cs*",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABEAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T18:06:20.776Z",
               "EditorCaption": ""
             },
             {
@@ -125,35 +134,9 @@
               "RelativeDocumentMoniker": "GerenciadorTarefas\\Domain\\Interface\\Service\\ITarefaService.cs",
               "ToolTip": "C:\\Desenvolvimento\\Nova pasta\\TrilhaBackEndJR-JUN15\\GerenciadorTarefas\\GerenciadorTarefas\\Domain\\Interface\\Service\\ITarefaService.cs",
               "RelativeToolTip": "GerenciadorTarefas\\Domain\\Interface\\Service\\ITarefaService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAApAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-07T17:14:29.851Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IUserService.cs",
-              "DocumentMoniker": "C:\\Desenvolvimento\\Nova pasta\\TrilhaBackEndJR-JUN15\\GerenciadorTarefas\\GerenciadorTarefas\\Domain\\Interface\\Service\\IUserService.cs",
-              "RelativeDocumentMoniker": "GerenciadorTarefas\\Domain\\Interface\\Service\\IUserService.cs",
-              "ToolTip": "C:\\Desenvolvimento\\Nova pasta\\TrilhaBackEndJR-JUN15\\GerenciadorTarefas\\GerenciadorTarefas\\Domain\\Interface\\Service\\IUserService.cs",
-              "RelativeToolTip": "GerenciadorTarefas\\Domain\\Interface\\Service\\IUserService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-07T17:14:44.699Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "IUserRepository.cs",
-              "DocumentMoniker": "C:\\Desenvolvimento\\Nova pasta\\TrilhaBackEndJR-JUN15\\GerenciadorTarefas\\GerenciadorTarefas\\Domain\\Interface\\Repository\\IUserRepository.cs",
-              "RelativeDocumentMoniker": "GerenciadorTarefas\\Domain\\Interface\\Repository\\IUserRepository.cs",
-              "ToolTip": "C:\\Desenvolvimento\\Nova pasta\\TrilhaBackEndJR-JUN15\\GerenciadorTarefas\\GerenciadorTarefas\\Domain\\Interface\\Repository\\IUserRepository.cs",
-              "RelativeToolTip": "GerenciadorTarefas\\Domain\\Interface\\Repository\\IUserRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-07T17:14:14.378Z",
+              "WhenOpened": "2024-07-07T18:27:26.03Z",
               "EditorCaption": ""
             }
           ]

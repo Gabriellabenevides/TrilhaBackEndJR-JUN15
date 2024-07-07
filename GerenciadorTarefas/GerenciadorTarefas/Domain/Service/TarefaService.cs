@@ -1,39 +1,42 @@
-﻿using GerenciadorTarefas.Domain.Interface.Service;
-using GerenciadorTarefas.Domain.Repository;
+﻿using GerenciadorTarefas.Domain.Interface.Repository;
+using GerenciadorTarefas.Domain.Interface.Service;
 using GerenciadorTarefas.Model;
+using System.Collections.Generic;
+using System.Threading.Tasks;
 
 namespace GerenciadorTarefas.Domain.Service
 {
     public class TarefaService : ITarefaService
     {
-        private readonly TarefaRepository _repository;
-        public TarefaService(TarefaRepository repository)
+        private readonly ITarefaRepository _repository;
+
+        public TarefaService(ITarefaRepository repository)
         {
             _repository = repository;
         }
-        public async Task<bool> Create(Tarefa tarefa)
-        {
 
+        public async Task<Tarefa> Create(Tarefa tarefa)
+        {
             var result = await _repository.Create(tarefa);
-            return true;
+            return result;
         }
 
         public async Task<bool> Delete(int tarefaId)
         {
-            await _repository.Delete(tarefaId);
-            return true;
+            var result = await _repository.Delete(tarefaId);
+            return result;
         }
 
         public async Task<List<Tarefa>> List()
         {
-            var tarefa = await _repository.List();
-
-            return tarefa;
+            var result = await _repository.List();
+            return result;
         }
 
         public async Task<int> Update(Tarefa tarefa)
         {
-            return await _repository.Update(tarefa);
+            var result = await _repository.Update(tarefa);
+            return result;
         }
     }
 }
